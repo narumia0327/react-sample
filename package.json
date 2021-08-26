@@ -47,8 +47,7 @@
       }
     },
     "plugins": [
-      "@typescript-eslint",
-      "import-access"
+      "@typescript-eslint"
     ],
     "env": {
       "browser": true,
